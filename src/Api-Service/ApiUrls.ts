@@ -1,5 +1,5 @@
-// const baseUrl = 'https://ecomapi.ftdigitalsolutions.org';
-export const baseUrl = 'https://test-ecomapi.justvy.in';
+const baseUrl = 'https://ecomapi.ftdigitalsolutions.org';
+// export const baseUrl = 'https://test-ecomapi.justvy.in';
 
 
 const multiVendor = `${baseUrl}/create_multivendor_users/`;
