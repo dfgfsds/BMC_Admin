@@ -1,4 +1,4 @@
-const baseUrl = 'https://ecomapi.ftdigitalsolutions.org';
+export const baseUrl = 'https://ecomapi.ftdigitalsolutions.org';
 // export const baseUrl = 'https://test-ecomapi.justvy.in';
 
 
